@@ -1,0 +1,1 @@
+Đọc bộ dữ liệu, cho biết số dòng, số cột và kiểu dữ liệu của các thuộc tính: Có 541909 dòng và 8 cột, dtype:InvoiceNo-object, StockCode-object ,Description-object ,Quantity-int64  ,InvoiceDate-object UnitPrice-float64,CustomerID-float64,Country-object, 
